@@ -8,8 +8,8 @@ require (
 	github.com/go-gl/glfw/v3.3/glfw v0.0.0-20210410170116-ea3d685f79fb // indirect
 	github.com/godbus/dbus/v5 v5.0.4 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20210202160940-bed99a852dfe // indirect
-	github.com/hectorchu/gonano v0.1.16
-	github.com/hectorchu/nano-token-protocol v0.1.6
+	github.com/Baina-Wallet/gonano v0.1.16
+	github.com/Baina-Wallet/nano-token-protocol v0.1.6
 	github.com/mattn/go-sqlite3 v1.14.7
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/spf13/viper v1.7.1
