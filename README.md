@@ -1,7 +1,7 @@
 Gonano GUI
 ==========
 
-This is the Graphical User Interface version of [Gonano](https://github.com/hectorchu/gonano), a general-purpose wallet for the [Nano](https://nano.org) digital currency.
+This is the Graphical User Interface version of [Gonano](https://github.com/Baina-Wallet/gonano), a general-purpose wallet for the [Nano](https://nano.org) digital currency.
 
 ![Send dialog](/assets/images/send.png)
 
@@ -13,9 +13,9 @@ Featuring:
 Install
 -------
 
-    go get -u github.com/hectorchu/gonano-gui
+    go get -u github.com/Baina-Wallet/gonano-gui
 
-Precompiled binaries for Linux, MacOS and Windows can be downloaded from the [Releases](https://github.com/hectorchu/gonano-gui/releases) page.
+Precompiled binaries for Linux, MacOS and Windows can be downloaded from the [Releases](https://github.com/Baina-Wallet/gonano-gui/releases) page.
 
 Usage
 -----
