@@ -1,4 +1,4 @@
-module github.com/hectorchu/gonano-gui
+module github.com/Baina-Wallet/gonano-gui
 
 go 1.15
 
